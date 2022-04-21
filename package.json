@@ -1,0 +1,8 @@
+{
+  "name": "Javascript",
+  "version": "1.0.0",
+  "description": "This is note for js",
+  "main": "index.js",
+  "author": "Aniket Gaikwad",
+  "license": "MIT"
+}
